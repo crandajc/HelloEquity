@@ -1,2 +1,4 @@
 # HelloEquity
-HelloEquity security token project, to tokenize enterprise shareholder ownership
+HelloEquity: A new security token for enterprise ownership
+
+HelloEquity is a security token residing on a blockchain that replaces the traditional utility of company stock.  This project develops a new distributed application ("dApp") to tokenize enterprise equity in the form of security tokens.  HelloEquity tokens impute enterprise ownership, distribute dividends, and manage voting rights.  This dApp will be a critical enterprise tool to raise capital without the overhead of traditional 3rd party exchanges and brokerages.  Utilizing the Hedera distributed ledger, HelloEquity tokens will leverage much faster transaction and settlement time, ABFT security, crystal clear transparency, SEC compliance by design, and 24/7 liquidity at a fraction of the cost of traditional exchanges and brokerages. It will also provide a self-service enterprise trading platform to provide services such as token sale, buy-back, and bridging to DEX for hosting via the Hedera network.        
